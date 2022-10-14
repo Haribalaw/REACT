@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainbg{
+    background-color:midnightblue;
+    padding: 127px;
+    text-align: center;
+    color: aliceblue;
+}
+
+img{
+    width: 35%;
+    height: 300px;
+}

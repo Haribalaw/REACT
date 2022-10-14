@@ -1,0 +1,26 @@
+
+.main{
+    background-image: url('./bg.png');
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.img_watch{
+    margin-top: 20px;
+     width: 30%;
+}
+
+
+.inner{
+    background-color: rgb(191, 224, 224);
+    width:35%;
+    margin: auto;
+    text-align: center;
+    margin-top:20px;
+    padding: 50px 5px 20px 5px;
+};
+
+
+
+

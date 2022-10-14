@@ -1,0 +1,16 @@
+
+
+.menu{
+    display: flex;
+    color: rgb(0, 68, 255);
+    list-style: none;
+    background-color: black;
+    margin-bottom: 0px;
+    
+}
+
+.menu li{
+    font-weight: bold;
+    padding: 20px;
+    
+}
